@@ -2,13 +2,13 @@
 Andy Spiers and Frank Whitworth
 
 ## Materials:
-1x Arduino Uno
-1x 9 Volt Battery
-1x 9 Volt Battery Clip
-1x HC-SR04 Ultrasonic Sensor
-1x Arduino Vibration Motor
-1x 5 by 3 by 1.5 inch cardboard box
-1x 2 by 2 inch 45 degree wooden handle
+- 1x Arduino Uno
+- 1x 9 Volt Battery 
+- 1x 9 Volt Battery Clip 
+- 1x HC-SR04 Ultrasonic Sensor 
+- 1x Arduino Vibration Motor 
+- 1x 5 by 3 by 1.5 inch cardboard box 
+- 1x 2 by 2 inch 45 degree wooden handle
 
 ## Instructions:
 - Connect the HC-SR04 Ultrasonic Sensor (Ultrasonic) to the Arduino Uno (Arduino), connecting the VCC pin to the 5V port on the Arduino and the GND pin to the GND port. Connect the Trig pin of the Ultrasonic to digital port 9, and the Echo pin of the Ultrasonic to digital port 9.
